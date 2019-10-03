@@ -1,6 +1,6 @@
 # MicroProcessor
 3rd Year(5th Semester) Micro Processor practicals.........
-Contains practicals :
+<\br>Contains practicals :
 1. A) ADD two 32 Bit Binary Numbers. - reference SM1.asm;
    B) SUB two 32 bit binary number. - reference SM2.asm;
    C) MUL two 32 bit Binary Numbers. - reference SM3.asm;
